@@ -1,1 +1,1 @@
-# tekton-resource-quota
+A simple task, pipeline and pipelinerun resource to shown the issue of running Tekton tasks within resourcequota defined on the project.
