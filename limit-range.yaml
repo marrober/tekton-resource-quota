@@ -1,7 +1,7 @@
 kind: LimitRange
 apiVersion: v1
 metadata:
-  name: mem-limit-range
+  name: limit-range
   namespace: limit-testing
 spec:
   limits:
